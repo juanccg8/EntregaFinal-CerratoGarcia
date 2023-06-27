@@ -9,6 +9,21 @@
   padding-top: 4.5rem;
 }
 
+footer {
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  color: black;
+  background-image: url("../imgs/Puerto.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.footer-content {
+  margin: 0 auto;
+}
+
 .image-section {
   position: relative;
 }
@@ -55,23 +70,9 @@
   font-family: "Allura";
   src: url(../fonts/Allura-Regular.ttf);
 }
+
 .Allura {
   font-family: "Allura", cursive;
-}
-
-footer {
-  width: 100%;
-  padding: 10px 0;
-  text-align: center;
-  color: black;
-  background-image: url("../imgs/Puerto.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 0.8;
-}
-
-.footer-content {
-  margin: 0 auto;
 }
 
 /*# sourceMappingURL=style.css.map */

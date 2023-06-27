@@ -1,41 +1,37 @@
 .image-section {
   position: relative;
-}
-
-.image-section img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.image-section h1 {
-  position: absolute;
-  top: 80%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  font-size: 50px;
-  text-align: center;
-  font-family: "Allura";
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  h1 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Allura";
+  }
 }
 
 .image-section-pages {
   position: relative;
-}
-
-.image-section-pages img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.image-section-pages h1 {
-  position: absolute;
-  top: 55%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  font-size: 50px;
-  text-align: center;
-  font-family: "Allura";
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  h1 {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Allura";
+  }
 }

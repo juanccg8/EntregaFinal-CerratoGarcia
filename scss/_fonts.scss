@@ -6,3 +6,15 @@
 .Allura {
   font-family: "Allura", cursive;
 }
+
+$font-size-h1-mobile: 18px;
+
+h1 {
+  font-size: $font-size-h1-mobile;
+}
+
+@media only screen and (min-width: 768px) {
+  h1 {
+    font-size: $font-size-h1-mobile * 1.2; // Aumento del 20% para tablets
+  }
+}

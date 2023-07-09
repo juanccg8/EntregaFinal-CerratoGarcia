@@ -6,7 +6,7 @@
 }
 
 .body-contact {
-  padding-top: 4.5rem;
+  padding-top: 1.5rem;
 }
 
 .image-section {
@@ -55,6 +55,15 @@
   font-family: "Allura", cursive;
 }
 
+h1 {
+  font-size: 18px;
+}
+
+@media only screen and (min-width: 768px) {
+  h1 {
+    font-size: 21.6px;
+  }
+}
 footer {
   width: 100%;
   padding: 10px 0;

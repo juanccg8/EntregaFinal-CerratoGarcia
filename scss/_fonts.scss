@@ -7,7 +7,7 @@
   font-family: "Allura", cursive;
 }
 
-$font-size-h1-mobile: 18px;
+$font-size-h1-mobile: 34px;
 
 h1 {
   font-size: $font-size-h1-mobile;
@@ -15,6 +15,6 @@ h1 {
 
 @media only screen and (min-width: 768px) {
   h1 {
-    font-size: $font-size-h1-mobile * 1.2; // Aumento del 20% para tablets
+    font-size: $font-size-h1-mobile * 1.8; // Aumento del 80% para tablets
   }
 }

@@ -23,7 +23,6 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 50px;
   text-align: center;
   font-family: "Allura";
 }
@@ -42,7 +41,6 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 50px;
   text-align: center;
   font-family: "Allura";
 }
@@ -56,12 +54,12 @@
 }
 
 h1 {
-  font-size: 18px;
+  font-size: 34px;
 }
 
 @media only screen and (min-width: 768px) {
   h1 {
-    font-size: 21.6px;
+    font-size: 61.2px;
   }
 }
 footer {
